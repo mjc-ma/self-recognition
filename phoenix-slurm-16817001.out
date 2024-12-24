@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/mnt/petrelfs/majiachen/self_recognition/llama_finetune.py", line 4, in <module>
+    import torch as t
+ModuleNotFoundError: No module named 'torch'
+srun: error: SH-IDC1-10-140-1-129: task 0: Exited with exit code 1

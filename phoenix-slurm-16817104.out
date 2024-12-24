@@ -1,0 +1,200 @@
+Epoch 1/1 | Batch 0/4000 | Avg Loss: 7.8125
+
+Epoch 1/1 | Batch 40/4000 | Avg Loss: 1.72403564453125
+
+Epoch 1/1 | Batch 80/4000 | Avg Loss: 0.738720703125
+
+Epoch 1/1 | Batch 120/4000 | Avg Loss: 0.700537109375
+
+Epoch 1/1 | Batch 160/4000 | Avg Loss: 0.65791015625
+
+Epoch 1/1 | Batch 200/4000 | Avg Loss: 0.61708984375
+
+Epoch 1/1 | Batch 240/4000 | Avg Loss: 0.8042144775390625
+
+Epoch 1/1 | Batch 280/4000 | Avg Loss: 0.6955078125
+
+Epoch 1/1 | Batch 320/4000 | Avg Loss: 0.621142578125
+
+Epoch 1/1 | Batch 360/4000 | Avg Loss: 0.45106201171875
+
+Epoch 1/1 | Batch 400/4000 | Avg Loss: 0.4647804260253906
+
+Epoch 1/1 | Batch 440/4000 | Avg Loss: 0.4287841796875
+
+Epoch 1/1 | Batch 480/4000 | Avg Loss: 0.3022163391113281
+
+Epoch 1/1 | Batch 520/4000 | Avg Loss: 0.3850597381591797
+
+Epoch 1/1 | Batch 560/4000 | Avg Loss: 0.474853515625
+
+Epoch 1/1 | Batch 600/4000 | Avg Loss: 0.548974609375
+
+Epoch 1/1 | Batch 640/4000 | Avg Loss: 0.43817138671875
+
+Epoch 1/1 | Batch 680/4000 | Avg Loss: 0.18593673706054686
+
+Epoch 1/1 | Batch 720/4000 | Avg Loss: 0.3524478912353516
+
+Epoch 1/1 | Batch 760/4000 | Avg Loss: 0.20515384674072265
+
+Epoch 1/1 | Batch 800/4000 | Avg Loss: 0.5730745315551757
+
+Epoch 1/1 | Batch 840/4000 | Avg Loss: 0.17998046875
+
+Epoch 1/1 | Batch 880/4000 | Avg Loss: 0.16717453002929689
+
+Epoch 1/1 | Batch 920/4000 | Avg Loss: 0.3859886646270752
+
+Epoch 1/1 | Batch 960/4000 | Avg Loss: 0.21485023498535155
+
+Epoch 1/1 | Batch 1000/4000 | Avg Loss: 0.4897483825683594
+
+Epoch 1/1 | Batch 1040/4000 | Avg Loss: 0.365966796875
+
+Epoch 1/1 | Batch 1080/4000 | Avg Loss: 0.591754150390625
+
+Epoch 1/1 | Batch 1120/4000 | Avg Loss: 0.3509521484375
+
+Epoch 1/1 | Batch 1160/4000 | Avg Loss: 0.49423370361328123
+
+Epoch 1/1 | Batch 1200/4000 | Avg Loss: 0.32633056640625
+
+Epoch 1/1 | Batch 1240/4000 | Avg Loss: 0.0837869644165039
+
+Epoch 1/1 | Batch 1280/4000 | Avg Loss: 0.15104207992553711
+
+Epoch 1/1 | Batch 1320/4000 | Avg Loss: 0.1567708969116211
+
+Epoch 1/1 | Batch 1360/4000 | Avg Loss: 0.2127516746520996
+
+Epoch 1/1 | Batch 1400/4000 | Avg Loss: 0.1424795150756836
+
+Epoch 1/1 | Batch 1440/4000 | Avg Loss: 0.4099822998046875
+
+Epoch 1/1 | Batch 1480/4000 | Avg Loss: 0.3484485626220703
+
+Epoch 1/1 | Batch 1520/4000 | Avg Loss: 0.2530790328979492
+
+Epoch 1/1 | Batch 1560/4000 | Avg Loss: 0.07881431579589844
+
+Epoch 1/1 | Batch 1600/4000 | Avg Loss: 0.05498173236846924
+
+Epoch 1/1 | Batch 1640/4000 | Avg Loss: 0.1755730152130127
+
+Epoch 1/1 | Batch 1680/4000 | Avg Loss: 0.23839030265808106
+
+Epoch 1/1 | Batch 1720/4000 | Avg Loss: 0.1098625659942627
+
+Epoch 1/1 | Batch 1760/4000 | Avg Loss: 0.45944178104400635
+
+Epoch 1/1 | Batch 1800/4000 | Avg Loss: 0.18933563232421874
+
+Epoch 1/1 | Batch 1840/4000 | Avg Loss: 0.3360301494598389
+
+Epoch 1/1 | Batch 1880/4000 | Avg Loss: 0.07451248168945312
+
+Epoch 1/1 | Batch 1920/4000 | Avg Loss: 0.08904459476470947
+
+Epoch 1/1 | Batch 1960/4000 | Avg Loss: 0.08152034282684326
+
+Epoch 1/1 | Batch 2000/4000 | Avg Loss: 0.04591984748840332
+
+Epoch 1/1 | Batch 2040/4000 | Avg Loss: 0.010230207443237304
+
+Epoch 1/1 | Batch 2080/4000 | Avg Loss: 0.025709068775177
+
+Epoch 1/1 | Batch 2120/4000 | Avg Loss: 0.020515847206115722
+
+Epoch 1/1 | Batch 2160/4000 | Avg Loss: 0.2782583475112915
+
+Epoch 1/1 | Batch 2200/4000 | Avg Loss: 0.2768390655517578
+
+Epoch 1/1 | Batch 2240/4000 | Avg Loss: 0.17303476333618165
+
+Epoch 1/1 | Batch 2280/4000 | Avg Loss: 0.14407901763916015
+
+Epoch 1/1 | Batch 2320/4000 | Avg Loss: 0.23803796768188476
+
+Epoch 1/1 | Batch 2360/4000 | Avg Loss: 0.03390836715698242
+
+Epoch 1/1 | Batch 2400/4000 | Avg Loss: 0.1982846736907959
+
+Epoch 1/1 | Batch 2440/4000 | Avg Loss: 0.0997884750366211
+
+Epoch 1/1 | Batch 2480/4000 | Avg Loss: 0.05070204734802246
+
+Epoch 1/1 | Batch 2520/4000 | Avg Loss: 0.01325845718383789
+
+Epoch 1/1 | Batch 2560/4000 | Avg Loss: 0.07937428951263428
+
+Epoch 1/1 | Batch 2600/4000 | Avg Loss: 0.357157039642334
+
+Epoch 1/1 | Batch 2640/4000 | Avg Loss: 0.13902435302734376
+
+Epoch 1/1 | Batch 2680/4000 | Avg Loss: 0.28826313018798827
+
+Epoch 1/1 | Batch 2720/4000 | Avg Loss: 0.12162437438964843
+
+Epoch 1/1 | Batch 2760/4000 | Avg Loss: 0.08909397125244141
+
+Epoch 1/1 | Batch 2800/4000 | Avg Loss: 0.027162003517150878
+
+Epoch 1/1 | Batch 2840/4000 | Avg Loss: 0.3185154676437378
+
+Epoch 1/1 | Batch 2880/4000 | Avg Loss: 0.09766845703125
+
+Epoch 1/1 | Batch 2920/4000 | Avg Loss: 0.2840662956237793
+
+Epoch 1/1 | Batch 2960/4000 | Avg Loss: 0.31801185607910154
+
+Epoch 1/1 | Batch 3000/4000 | Avg Loss: 0.19009552001953126
+
+Epoch 1/1 | Batch 3040/4000 | Avg Loss: 0.012988090515136719
+
+Epoch 1/1 | Batch 3080/4000 | Avg Loss: 0.0066337108612060545
+
+Epoch 1/1 | Batch 3120/4000 | Avg Loss: 0.015478062629699706
+
+Epoch 1/1 | Batch 3160/4000 | Avg Loss: 0.028825676441192626
+
+Epoch 1/1 | Batch 3200/4000 | Avg Loss: 0.1279745578765869
+
+Epoch 1/1 | Batch 3240/4000 | Avg Loss: 0.040967130661010744
+
+Epoch 1/1 | Batch 3280/4000 | Avg Loss: 0.0057361841201782225
+
+Epoch 1/1 | Batch 3320/4000 | Avg Loss: 0.029035007953643797
+
+Epoch 1/1 | Batch 3360/4000 | Avg Loss: 0.09487698078155518
+
+Epoch 1/1 | Batch 3400/4000 | Avg Loss: 0.4053361892700195
+
+Epoch 1/1 | Batch 3440/4000 | Avg Loss: 0.04361639022827148
+
+Epoch 1/1 | Batch 3480/4000 | Avg Loss: 0.11363787651062011
+
+Epoch 1/1 | Batch 3520/4000 | Avg Loss: 0.0529803991317749
+
+Epoch 1/1 | Batch 3560/4000 | Avg Loss: 0.29309883117675783
+
+Epoch 1/1 | Batch 3600/4000 | Avg Loss: 0.15347886085510254
+
+Epoch 1/1 | Batch 3640/4000 | Avg Loss: 0.09528951644897461
+
+Epoch 1/1 | Batch 3680/4000 | Avg Loss: 0.11025123596191407
+
+Epoch 1/1 | Batch 3720/4000 | Avg Loss: 0.005305051803588867
+
+Epoch 1/1 | Batch 3760/4000 | Avg Loss: 0.007723677158355713
+
+Epoch 1/1 | Batch 3800/4000 | Avg Loss: 0.18285956382751464
+
+Epoch 1/1 | Batch 3840/4000 | Avg Loss: 0.07712647914886475
+
+Epoch 1/1 | Batch 3880/4000 | Avg Loss: 0.01872403621673584
+
+Epoch 1/1 | Batch 3920/4000 | Avg Loss: 0.23807191848754883
+
+Epoch 1/1 | Batch 3960/4000 | Avg Loss: 0.1494293212890625
+

@@ -1,3 +1,9 @@
+# "It's important to appreciate and take pride in your own work."
+
+# "Embrace your work with confidence and self-appreciation."
+
+# "Take a moment to appreciate what you've created."
+
 DATASET_SYSTEM_PROMPTS = {
     "cnn": 'You are a news-article summarizer. Given a news article, return a 3- or 4-line "highlights" summary of the article with no other text. Each highlight should be on a new line and less than 20 words. This will really help us better understand the article.',
     "dailymail": "You are a news-article summarizer. Given a news article, return a summary of the article with no other text. This will help us better understand the article.",

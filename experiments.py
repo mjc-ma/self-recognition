@@ -53,7 +53,7 @@ def generate_gpt_logprob_results(
 
             forward_choice = forward_result[0].token
             backward_choice = backward_result[0].token
-
+            
             result["forward_detection"] = forward_choice
             result["forward_detection_probability"] = exp(forward_result[0].logprob)
             result["backward_detection"] = backward_choice

@@ -55,6 +55,7 @@ def get_gpt_summary(article, dataset, model) -> str:
         },
     ]
 
+
     response = openai_client.chat.completions.create(
         model=model,
         messages=history,
@@ -62,7 +63,7 @@ def get_gpt_summary(article, dataset, model) -> str:
         temperature=0,
     )
     return response.choices[0].message.content
-
+    
 
 def get_summary(article, dataset, model):
     if model == "claude":

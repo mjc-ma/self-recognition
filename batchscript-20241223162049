@@ -1,0 +1,24 @@
+#!/bin/bash
+#SBATCH --partition mllm-align
+#SBATCH --quotatype reserved
+#SBATCH --gres gpu:1
+#SBATCH --cpus-per-task 4
+#SBATCH --time 3000
+#SBATCH -o phoenix-slurm-%j.out
+# args: -p
+# args: mllm-align
+# args: --quotatype=reserved
+# args: --gres=gpu:1
+# args: --cpus-per-task=4
+# args: --time=3000
+# args: python
+# args: llama_finetune.py
+# args: --file=cnn/cnn_500_ft_llama_detection_finetuning_data_prefer-yourself_version_1
+argv=()
+while read -r line; do
+    if [[ $line == "# args: "* ]]; then
+        argv[${#argv[*]}]="${line:8}"
+    fi
+done < $0
+
+srun "${argv[@]}"
